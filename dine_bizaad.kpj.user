@@ -60,7 +60,7 @@
         <DebugDefaultFont>1</DebugDefaultFont>
         <DebugFont>Consolas|-9|   |0</DebugFont>
       </IDEState>
-      <Debug>False</Debug>
+      <Debug>True</Debug>
     </FileState>
     <FileState>
       <ID>id_487ea2a23fa69485412ba9cbd6c18e24</ID>
