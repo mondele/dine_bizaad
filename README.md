@@ -7,7 +7,7 @@ This keyboard is designed to allow typing à la the Navajo font, but producing U
 
 Links
 -----
-Keyboard Homepage: https://keyman.com/keyboards/din__bizaad
+Keyboard Homepage: https://keyman.com/keyboards/dine_bizaad
 
 Copyright
 ---------

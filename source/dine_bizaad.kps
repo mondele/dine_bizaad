@@ -25,19 +25,19 @@
   </Info>
   <Files>
     <File>
-      <Name>..\build\din__bizaad.kmx</Name>
+      <Name>..\build\dine_bizaad.kmx</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kmx</FileType>
     </File>
     <File>
-      <Name>..\build\din__bizaad.js</Name>
+      <Name>..\build\dine_bizaad.js</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.js</FileType>
     </File>
     <File>
-      <Name>..\build\din__bizaad.kvk</Name>
+      <Name>..\build\dine_bizaad.kvk</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kvk</FileType>
@@ -64,7 +64,7 @@
   <Keyboards>
     <Keyboard>
       <Name>Diné Bizaad</Name>
-      <ID>din__bizaad</ID>
+      <ID>dine_bizaad</ID>
       <Version>1.0</Version>
       <Languages>
         <Language ID="nv">Navajo</Language>
