@@ -67,7 +67,7 @@ group(main) using keys
 + [K_RBRKT] > '̨́'
 + [K_LBRKT] > U+0328
 + [K_QUOTE] > U+0027
-+ [K_COLON] > 'Ł'
++ [K_COLON] > 'ł'
 + [K_PERIOD] > '.'
 + [K_COMMA] > ','
 + [K_A] > 'a'
