@@ -885,7 +885,7 @@ function Keyboard_dine_bizaad()
       if(1){
         r=m=1;   // Line 70
         k.KDC(0,t);
-        k.KO(-1,t,"Ł");
+        k.KO(-1,t,"ł");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_COMMA /* 0xBC */)) {

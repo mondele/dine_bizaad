@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
+    <tab>3</tab>
     <showhelp>1</showhelp>
     <path>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\dine_bizaad.kpj</path>
   </ViewState>
@@ -33,6 +33,10 @@
     <FileState>
       <ID>id_03f4b35e30ce79d5664b44e0cf1886ee</ID>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad (2).ico</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_c5f7617360ba115996a99ff058cecce7</ID>
@@ -65,10 +69,22 @@
     <FileState>
       <ID>id_487ea2a23fa69485412ba9cbd6c18e24</ID>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_b81547480346117e465b05ed05abc118</ID>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_45dd2b8a13acf4bc7bb32d644a509d73</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\Navajo_flag.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b690cf1e280be5b22a7741e7d1d81cc8</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\Navajo_flag.svg</FullPath>
     </FileState>
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
@@ -79,15 +95,15 @@
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\welcome.htm</FullPath>
     </FileState>
     <FileState>
-      <ID>id_e4c7b64a15015cf1284fa35f58d73476</ID>
+      <ID>id_1e62f078f0550e979e084ff99064d67c</ID>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\..\build\dine_bizaad.kmx</FullPath>
     </FileState>
     <FileState>
-      <ID>id_4d478017460547fd253e4b756bdde84c</ID>
+      <ID>id_60eefaaee4f119e7da52d21e9712ee7a</ID>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\..\build\dine_bizaad.js</FullPath>
     </FileState>
     <FileState>
-      <ID>id_02554f8c6b765e5da3ccd5c9ad9fc429</ID>
+      <ID>id_c9c45e403ce52581e509be953e4eb4bc</ID>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\..\build\dine_bizaad.kvk</FullPath>
     </FileState>
     <FileState>
@@ -101,6 +117,18 @@
       <Filename>dine_bizaad.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>dine_bizaad (2).ico</Filename>
+      <FileType>.ico</FileType>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad (2).ico</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>dine_bizaad.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad.kps</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>
