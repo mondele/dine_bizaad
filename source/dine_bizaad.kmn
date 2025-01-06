@@ -12,6 +12,8 @@ store(&LAYOUTFILE) 'dine_bizaad.keyman-touch-layout'
 begin Unicode > use(main)
 
 group(main) using keys
++ [K_EQUAL] > 'ǫ́'
++ [K_HYPHEN] > 'ǫ'
 + [K_1] > 'á'
 + [K_2] > 'ą'
 + [K_3] > 'ą́'
