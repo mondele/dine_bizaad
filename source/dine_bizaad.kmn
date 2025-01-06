@@ -12,8 +12,16 @@ store(&LAYOUTFILE) 'dine_bizaad.keyman-touch-layout'
 begin Unicode > use(main)
 
 group(main) using keys
-+ [K_2] > 'ą'
 + [K_1] > 'á'
++ [K_2] > 'ą'
++ [K_3] > 'ą́'
++ [K_4] > 'é'
++ [K_5] > 'ę'
++ [K_6] > 'ę́'
++ [K_7] > 'í'
++ [K_8] > 'į'
++ [K_9] > 'į́'
++ [K_0] > 'ó'
 + [SHIFT K_LBRKT] > 'Ł'
 + [SHIFT K_A] > 'A'
 + [SHIFT K_B] > 'B'
