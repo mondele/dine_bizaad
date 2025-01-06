@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\din__bizaad.kpj</path>
+    <file ID="id_b673161d97a2d57a88ae33b37cb8731a" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_84f515ac96c05d501180aaa4e871d6f5</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\din__bizaad.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0cce262f230441b89c8342f7ca58da21</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\din__bizaad.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ff6b2b8a01a087b1c42c79c5bc9cbd38</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\din__bizaad.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a2b1bad028e2a7dca810cfdb20fa666c</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\din__bizaad.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b673161d97a2d57a88ae33b37cb8731a</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\din__bizaad.kmn</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_ec9fcbb824733311667da6cb89fb87fe</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\din__bizaad.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7dfd4b8f3b92e6f0e6a5cae8722e608e</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\din__bizaad.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_e4c7b64a15015cf1284fa35f58d73476</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\..\build\din__bizaad.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_4d478017460547fd253e4b756bdde84c</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\..\build\din__bizaad.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_02554f8c6b765e5da3ccd5c9ad9fc429</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\..\build\din__bizaad.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\..\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_248507ed79a5d94f5e0ceb5a1fd21cd8</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\dine_bizaad.ico</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>din__bizaad.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\din__bizaad\source\din__bizaad.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
