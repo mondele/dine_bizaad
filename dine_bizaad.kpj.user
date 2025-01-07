@@ -4,6 +4,7 @@
     <tab>3</tab>
     <showhelp>1</showhelp>
     <path>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\dine_bizaad.kpj</path>
+    <file ID="id_487ea2a23fa69485412ba9cbd6c18e24" Expanded="1"/>
   </ViewState>
   <FileStates>
     <FileState>
@@ -79,10 +80,6 @@
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad.kvks</FullPath>
     </FileState>
     <FileState>
-      <ID>id_45dd2b8a13acf4bc7bb32d644a509d73</ID>
-      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\Navajo_flag.ico</FullPath>
-    </FileState>
-    <FileState>
       <ID>id_b690cf1e280be5b22a7741e7d1d81cc8</ID>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\Navajo_flag.svg</FullPath>
     </FileState>
@@ -114,21 +111,21 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
+      <Filename>dine_bizaad.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
       <Filename>dine_bizaad.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad.kmn</FullPath>
     </File>
     <File>
-      <ID>id_MRU1</ID>
+      <ID>id_MRU2</ID>
       <Filename>dine_bizaad (2).ico</Filename>
       <FileType>.ico</FileType>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad (2).ico</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU2</ID>
-      <Filename>dine_bizaad.kps</Filename>
-      <FileType>.kps</FileType>
-      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\dine_bizaad.kps</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>
