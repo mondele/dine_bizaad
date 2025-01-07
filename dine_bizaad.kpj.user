@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>3</tab>
+    <tab>4</tab>
     <showhelp>1</showhelp>
     <path>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\dine_bizaad.kpj</path>
     <file ID="id_487ea2a23fa69485412ba9cbd6c18e24" Expanded="1"/>
@@ -106,6 +106,18 @@
     <FileState>
       <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
       <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\..\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_cc9d6c357fa8be03f1ccd0400f24cbec</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\alt-shifted.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_daa1d00b029c57707a4c78929b2a6cdd</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\shifted.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_4dd48614d3f93b3eb978b1e6c4341455</ID>
+      <FullPath>C:\Users\jdwood\Documents\Keyman Developer\Projects\dine_bizaad\source\unshifted.png</FullPath>
     </FileState>
   </FileStates>
   <MRU>
