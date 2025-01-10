@@ -33,7 +33,7 @@ function Keyboard_dine_bizaad()
   this.KDU=0;
   this.KH='';
   this.KM=0;
-  this.KBVER="1.0";
+  this.KBVER="1.1";
   this.KMBM=modCodes.SHIFT | modCodes.ALT /* 0x0050 */;
   this.KVKL={
   "phone": {
