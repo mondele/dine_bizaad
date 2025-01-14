@@ -18,7 +18,7 @@
               },
               {
                 "id": "K_3",
-                "text": "ą́"
+                "text": "ą́"
               },
               {
                 "id": "K_4",
@@ -299,7 +299,7 @@
               },
               {
                 "id": "K_3",
-                "text": "Ą́"
+                "text": "Ą́"
               },
               {
                 "id": "K_4",
@@ -398,7 +398,7 @@
                 "text": "Ń"
               },
               {
-                "id": "T_new_308",
+                "id": "T_new_196",
                 "width": 10,
                 "sp": 10
               }
@@ -514,7 +514,7 @@
                 "text": "?"
               },
               {
-                "id": "T_new_334",
+                "id": "T_new_222",
                 "width": 10,
                 "sp": 10
               }
@@ -525,13 +525,13 @@
             "key": [
               {
                 "id": "K_LCONTROL",
-                "text": "123",
+                "text": "!@#",
                 "width": 130,
                 "sp": 1,
                 "nextlayer": "alt",
                 "sk": [
                   {
-                    "text": "123",
+                    "text": "!@#",
                     "id": "K_LCONTROL",
                     "sp": 1,
                     "nextlayer": "alt"
@@ -662,14 +662,14 @@
               },
               {
                 "id": "K_LBRKT",
-                "text": "("
+                "text": "["
               },
               {
                 "id": "K_RBRKT",
-                "text": ")"
+                "text": "]"
               },
               {
-                "id": "T_new_194",
+                "id": "T_new_256",
                 "width": 10,
                 "sp": 10
               }
@@ -763,7 +763,7 @@
                 "id": "K_SLASH"
               },
               {
-                "id": "T_new_220",
+                "id": "T_new_282",
                 "width": 10,
                 "sp": 10
               }
@@ -904,13 +904,15 @@
                 "id": "K_P"
               },
               {
-                "id": "K_LBRKT"
+                "id": "K_LBRKT",
+                "text": "{"
               },
               {
-                "id": "K_RBRKT"
+                "id": "K_RBRKT",
+                "text": "}"
               },
               {
-                "id": "T_new_426",
+                "id": "T_new_314",
                 "width": 10,
                 "sp": 10
               }
@@ -1004,7 +1006,7 @@
                 "id": "K_SLASH"
               },
               {
-                "id": "T_new_452",
+                "id": "T_new_340",
                 "width": 10,
                 "sp": 10
               }

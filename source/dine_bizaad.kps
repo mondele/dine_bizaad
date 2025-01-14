@@ -44,26 +44,8 @@
       <FileType>.kvk</FileType>
     </File>
     <File>
-      <Name>welcome\alt-shifted.png</Name>
-      <Description>File alt-shifted.png</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.png</FileType>
-    </File>
-    <File>
       <Name>welcome\Navajo_flag.png</Name>
       <Description>File Navajo_flag.png</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.png</FileType>
-    </File>
-    <File>
-      <Name>welcome\shifted.png</Name>
-      <Description>File shifted.png</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.png</FileType>
-    </File>
-    <File>
-      <Name>welcome\unshifted.png</Name>
-      <Description>File unshifted.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
@@ -84,6 +66,30 @@
       <Description>File LICENSE.md</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
+    </File>
+    <File>
+      <Name>welcome\unshifted.png</Name>
+      <Description>File unshifted.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>welcome\shifted.png</Name>
+      <Description>File shifted.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>welcome\alt-shifted.png</Name>
+      <Description>File alt-shifted.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>welcome\alt+shifted.png</Name>
+      <Description>File alt+shifted.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
     </File>
   </Files>
   <Keyboards>

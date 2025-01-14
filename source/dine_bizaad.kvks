@@ -19,12 +19,14 @@
       <key vkey="K_2">@</key>
       <key vkey="K_6">^</key>
       <key vkey="K_HYPHEN">_</key>
+      <key vkey="K_LBRKT">{</key>
+      <key vkey="K_RBRKT">}</key>
       <key vkey="K_BKQUOTE">~</key>
     </layer>
     <layer shift="S">
       <key vkey="K_1">Á</key>
       <key vkey="K_QUOTE">"</key>
-      <key vkey="K_3">Ą́</key>
+      <key vkey="K_3">Ą́</key>
       <key vkey="K_4">É</key>
       <key vkey="K_5">Ę</key>
       <key vkey="K_7">Í</key>
@@ -79,7 +81,7 @@
       <key vkey="K_0">ó</key>
       <key vkey="K_1">á</key>
       <key vkey="K_2">ą</key>
-      <key vkey="K_3">ą́</key>
+      <key vkey="K_3">ą́</key>
       <key vkey="K_4">é</key>
       <key vkey="K_5">ę</key>
       <key vkey="K_6">ę́</key>
@@ -132,8 +134,8 @@
       <key vkey="K_8">8</key>
       <key vkey="K_9">9</key>
       <key vkey="K_EQUAL">=</key>
-      <key vkey="K_LBRKT">(</key>
-      <key vkey="K_RBRKT">)</key>
+      <key vkey="K_LBRKT">[</key>
+      <key vkey="K_RBRKT">]</key>
       <key vkey="K_BKQUOTE">!</key>
     </layer>
   </encoding>
