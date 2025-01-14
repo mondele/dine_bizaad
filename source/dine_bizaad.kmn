@@ -3,12 +3,13 @@ c with name "Diné Bizaad"
 store(&VERSION) '10.0'
 store(&NAME) 'Diné Bizaad'
 store(&COPYRIGHT) 'Copyright © Wycliffe Associates'
-store(&KEYBOARDVERSION) '1.2'
+store(&KEYBOARDVERSION) '1.2.1'
 store(&TARGETS) 'any'
 store(&BITMAP) 'dine_bizaad.ico'
 store(&VISUALKEYBOARD) 'dine_bizaad.kvks'
 store(&LAYOUTFILE) 'dine_bizaad.keyman-touch-layout'
 store(&MESSAGE) 'Diné Bizaad is a keyboard for Typing Navajo using the same system as the traditional font'
+store(&KMW_HELPTEXT) 'Diné Bizaad for typing Navajo'
 
 begin Unicode > use(main)
 
