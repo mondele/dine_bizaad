@@ -7,7 +7,9 @@
   <Options>
     <ExecuteProgram></ExecuteProgram>
     <ReadMeFile>readme.htm</ReadMeFile>
+    <GraphicFile>Navajo_flag.png</GraphicFile>
     <LicenseFile>..\LICENSE.md</LicenseFile>
+    <WelcomeFile>welcome.htm</WelcomeFile>
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
@@ -78,12 +80,18 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
+    <File>
+      <Name>Navajo_flag.png</Name>
+      <Description>File Navajo_flag.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>Diné Bizaad</Name>
       <ID>dine_bizaad</ID>
-      <Version>1.0</Version>
+      <Version>1.2</Version>
       <Languages>
         <Language ID="nv">Navajo</Language>
       </Languages>
